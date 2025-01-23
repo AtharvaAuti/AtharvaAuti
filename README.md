@@ -12,11 +12,9 @@ Pune University, Pune, Maharashtra, India
 ---
 
 ### Education
-| Degree                       | Institution/Board                                | Year |
-| ---------------------------- | ------------------------------------------------ | ---- |
-| Masters of Electronics       | Fergusson College (Autonomous), Pune             | 2023 |
-| Bachelors of Electronics     | HPT Arts & RYK Science College, Nashik (SPPU)    | 2021 |
-| HSC                          | HPT Arts & RYK Science College, Nashik           | 2017 |
+| Degree                       | Institution/Board                                |
+| ---------------------------- | ------------------------------------------------ |
+| Masters of Electronics       | Fergusson College (Autonomous), Pune             | 
 
 ---
 
@@ -66,3 +64,14 @@ Pune University, Pune, Maharashtra, India
 
 - **Postgraduation:** Embedded System Design, VLSI, IOT, Instrumentation, Communication Electronics
 - **Graduation:** 8051 Microcontroller, Semiconductor Devices, Digital & Analog Electronics System
+
+---
+
+### languages 
+
+- English
+- Hindi
+- German
+- Marathi
+
+---
