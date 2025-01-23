@@ -60,7 +60,7 @@ Pune University, Pune, Maharashtra, India
 
 ---
 
-### Key Courses Taken
+### 📝 Key Courses Taken
 
 - **Postgraduation:** Embedded System Design, VLSI, IOT, Instrumentation, Communication Electronics
 - **Graduation:** 8051 Microcontroller, Semiconductor Devices, Digital & Analog Electronics System
