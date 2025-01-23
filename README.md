@@ -2,7 +2,7 @@
 Pune University, Pune, Maharashtra, India
 ---
 
-### Experience
+### 💼 Experience
 **Intern at Gurutvaa Systems Private Limited (Defence & Aerospace) - Dec 2022 - May 2023**
 
 - RF Spectrum Analyzer, Testing & Quality Control of different RF circuits & systems.
@@ -11,14 +11,14 @@ Pune University, Pune, Maharashtra, India
 
 ---
 
-### Education
+### 🎓 Education
 | Degree                       | Institution/Board                                |
 | ---------------------------- | ------------------------------------------------ |
 | Masters of Electronics       | Fergusson College (Autonomous), Pune             | 
 
 ---
 
-### Projects
+### 🗞️ Projects
 **Masters Projects**
 
 - **Pressure Cooker Whistle Counter using Accelerometer (IOT):** Prevents overcooking and food waste by counting whistles.
@@ -32,7 +32,7 @@ Pune University, Pune, Maharashtra, India
 
 ---
 
-### Technical Skills
+### 🧑‍💻 Technical Skills
 
 #### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -67,7 +67,7 @@ Pune University, Pune, Maharashtra, India
 
 ---
 
-### languages 
+### 🈵 languages 
 
 - English
 - Hindi
