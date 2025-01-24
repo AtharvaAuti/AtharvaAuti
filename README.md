@@ -1,4 +1,4 @@
-### 🚀🚀 Hello Enthusiasts. 👋 I'm Atharva D. Auti 
+### 🚀🚀Hello Enthusiasts,👋 I'm Atharva Auti 
 Pune University, Pune, Maharashtra, India
 ---
 
