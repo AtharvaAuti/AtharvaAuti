@@ -37,16 +37,14 @@ Pune University, Pune, Maharashtra, India
 
 ### 🧑‍💻 Technical Skills
 
-
-![1000019767-unscreen](https://github.com/user-attachments/assets/19542dc7-8c9f-4349-8e35-f7ffb396aa06)
 #### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Ladder Logic](https://img.shields.io/badge/Ladder_Logic-007AC7?style=flat&logo=ladder-logic&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-![1000019766-unscreen](https://github.com/user-attachments/assets/96d240f1-32bc-40bf-a69c-f382def9ac11)
 #### EDA Tools
 ![LTspice](https://img.shields.io/badge/LTspice-0089D6?style=flat&logo=ltspice&logoColor=white)
 ![Picosoft](https://img.shields.io/badge/Picosoft-000000?style=flat&logo=picosoft&logoColor=white)
@@ -58,7 +56,8 @@ Pune University, Pune, Maharashtra, India
 ![MPLab](https://img.shields.io/badge/MPLab-272727?style=flat&logo=mplab&logoColor=white)
 
 
-![graphics-card-14927_512](https://github.com/user-attachments/assets/0703ed48-4fb7-4a32-8993-859d70e68844)
+![1000019766-unscreen](https://github.com/user-attachments/assets/96d240f1-32bc-40bf-a69c-f382def9ac11)
+
 #### Hardware
 ![Lpc2148](https://img.shields.io/badge/LPC2148-0070BB?style=flat&logo=nxp&logoColor=white)
 ![AVR](https://img.shields.io/badge/AVR-00318A?style=flat&logo=atmel&logoColor=white)
@@ -67,12 +66,16 @@ Pune University, Pune, Maharashtra, India
 ![Raspberry PI](https://img.shields.io/badge/Raspberry_PI-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
+
+![graphics-card-14927_512](https://github.com/user-attachments/assets/0703ed48-4fb7-4a32-8993-859d70e68844)
+
 ---
 
 ### 📝 Key Courses Taken
 
 - **Postgraduation:** Embedded System Design, VLSI, IOT, Instrumentation, Communication Electronics
 - **Graduation:** 8051 Microcontroller, Semiconductor Devices, Digital & Analog Electronics System
+  ![1000019767-unscreen](https://github.com/user-attachments/assets/19542dc7-8c9f-4349-8e35-f7ffb396aa06)
 
 ---
 
